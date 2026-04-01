@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arshsyee;
 - 👀 I’m interested in doing projects to help the raccoon federation;
 - 🌱 I’m currently learning C++ and Python;
-- 📫 How to reach me (LinkedIn:[loading...] && Instagram:arshsyeee)
+- 📫 How to reach me (LinkedIn:(https://www.linkedin.com/in/arshsyeee/) && Instagram:arshsyeee)
 
 <!---
 arshsyee/arshsyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
