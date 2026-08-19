@@ -2,7 +2,7 @@
 
 **Hackathon-winning Computer Science junior at Youngstown State University, pursuing minors in Mathematics and Finance.**
 
-I build full-stack products, AI-powered tools, and automation systems, backed by experience across multiple internships. I am also an active trader with hands-on experience in financial markets, and I am especially interested in software at the intersection of engineering, data, and finance.
+I build full-stack products, AI-powered tools, and automation systems, drawing on experience across multiple internships. Outside software, I actively trade and study financial markets. I’m also preparing to launch a newsletter exploring technology, markets, and the ideas connecting them.
 
 ## Featured project
 
