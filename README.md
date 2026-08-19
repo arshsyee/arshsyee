@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @arshsyee;
-- 👀 I’m interested in doing projects to help the raccoon federation;
-- 🌱 I’m currently learning C++ and Python;
-- 📫 How to reach me (LinkedIn:(https://www.linkedin.com/in/arshsyeee/) && Instagram:arshsyeee)
+# Arsh Syed
 
-<!---
-arshsyee/arshsyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science junior at Youngstown State University building full-stack, automation, and security-focused software.
+
+## Featured project
+
+### [Vigil](https://github.com/arshsyee/vigil)
+
+Full-stack website monitoring platform built at HackYSU 2026. Vigil audits performance, accessibility, SEO, and security, tracks results over time, and supports scheduled monitoring and alerts.
+
+**Built with:** React, FastAPI, Python, SQLAlchemy, APScheduler, and Vite
+
+## Experience and leadership
+
+- Student staff member, YSU Service Desk and Switchboard
+- Secretary, YSU Computer Club
+
+## Technical focus
+
+- Full-stack web applications
+- Python APIs and automation
+- Security and accessibility tooling
+- Databases and external API integrations
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/arshsyeee/)
