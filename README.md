@@ -22,4 +22,4 @@ Full-stack website monitoring platform that won 2nd Place and Best Use of AWS at
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/arshsyeee/)
+[LinkedIn](https://www.linkedin.com/in/arshsyeee/) · [Instagram](https://www.instagram.com/arshsyeee/)
