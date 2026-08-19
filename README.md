@@ -14,7 +14,9 @@ Full-stack website monitoring platform that won 2nd Place and Best Use of AWS at
 
 ## Experience and leadership
 
-- Experience across multiple internships
+- **Macpherson Glass Company — Automation Intern:** Building a robotic kiln automation system using Teknic ClearCore motion control, ClearPath stepper motors, and machine vision (2026)
+- **Deloitte Touche Tohmatsu Ltd. — Power Platform Developer Intern:** Built a Power Apps time-tracking prototype with Power Automate approvals, reminders, role-based dashboards, and Excel/SharePoint validation (2025)
+- **Deloitte Touche Tohmatsu Ltd. — Generative AI & Software Engineering Intern:** Integrated generative AI into a Python chatbot, built PDF similarity scoring, and improved OCR throughput by approximately 40% (2024)
 - Student staff member, YSU Service Desk and Switchboard
 - Secretary, YSU Computer Club
 
