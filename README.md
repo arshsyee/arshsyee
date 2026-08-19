@@ -20,14 +20,6 @@ Full-stack website monitoring platform that won 2nd Place and Best Use of AWS at
 - Student staff member, YSU Service Desk and Switchboard
 - Secretary, YSU Computer Club
 
-## Technical focus
-
-- Full-stack applications and product engineering
-- AI-powered software and workflow automation
-- Python APIs, databases, and external integrations
-- Trading tools, market data, and quantitative finance
-- Security and accessibility engineering
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/arshsyeee/)
