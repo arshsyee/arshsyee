@@ -4,9 +4,9 @@ Computer Science junior at Youngstown State University building full-stack, auto
 
 ## Featured project
 
-### [Vigil](https://github.com/arshsyee/vigil)
+### [SATsec](https://github.com/arshsyee/SATsec)
 
-Full-stack website monitoring platform built at HackYSU 2026. Vigil audits performance, accessibility, SEO, and security, tracks results over time, and supports scheduled monitoring and alerts.
+Award-winning full-stack website monitoring platform built at HackYSU 2026. SATsec audits performance, accessibility, SEO, and security, tracks results over time, and supports scheduled monitoring and alerts.
 
 **Built with:** React, FastAPI, Python, SQLAlchemy, APScheduler, and Vite
 
